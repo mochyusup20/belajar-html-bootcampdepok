@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f7f7;
+    font-family:cursive;
+    font-size: 18px;
+}
+
+h2 {
+    background-color: antiquewhite;
+}
+
+.par {
+    background-image: url(https://images.pexels.com/photos/371633/pexels-photo-371633.jpeg?cs=srgb&dl=clouds-country-daylight-371633.jpg);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.jumbotron {
+    background-color: yellow!important;
+    background-image: url(https://images.pexels.com/photos/371633/pexels-photo-371633.jpeg?cs=srgb&dl=clouds-country-daylight-371633.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
